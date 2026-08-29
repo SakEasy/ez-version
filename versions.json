@@ -1,6 +1,6 @@
 {
   "es_extended": "1.0.3c",
-  "ez_admin": "1.0.2j",
+  "ez_admin": "1.0.2k",
   "ez_attacher": "1.0.1o",
   "ez_baccarat": "1.0.1o",
   "ez_bank": "1.0.1k",
@@ -40,7 +40,7 @@
   "ez_progressjobs": "1.0.1n",
   "ez_props": "1.0.1f",
   "ez_punish": "1.0.1t",
-  "ez_quest": "1.0.1q",
+  "ez_quest": "1.0.1r",
   "ez_ranking": "1.0.1k",
   "ez_rent": "1.0.1l",
   "ez_safezone": "1.0.1i",
