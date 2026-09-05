@@ -1,5 +1,5 @@
 {
-  "ez_admin": "1.0.5n",
+  "ez_admin": "1.0.5o",
   "ez_attacher": "1.0.4l",
   "ez_baccarat": "1.0.4c",
   "ez_bank": "1.0.4a",
@@ -12,8 +12,8 @@
   "ez_cdn": "1.0.4d",
   "ez_code": "1.0.4d",
   "ez_controling": "1.0.4g",
-  "ez_core": "1.0.1t",
-  "ez_core_bench": "1.0.1f",
+  "ez_core": "1.0.1u",
+  "ez_core_bench": "1.0.1j",
   "ez_crafting": "1.0.4n",
   "ez_culling": "1.0.3y",
   "ez_daily": "1.0.4d",
